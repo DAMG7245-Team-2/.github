@@ -15,8 +15,12 @@ Assignment 1: https://github.com/DAMG7245-Team-2/ParseForge
 Assignment 2: https://github.com/DAMG7245-Team-2/findatateam3
 
 Assignment 3.1:
-Lab 1 - 
-Lab 2 - 
+
+
+Lab 1 - https://github.com/adwaithk24/DE-pipelin-with-snowpark-python
+
+Lab 2 - https://github.com/AshishNevan/sfguide-data-engineering-with-notebooks
+
 Lab 3 - https://github.com/DAMG7245-Team-2/sfguide-getting-started-with-native-apps
 
 Assignment 3.2: https://github.com/DAMG7245-Team-2/SNOWFLAKE_DEXUS_QUICKSTART
