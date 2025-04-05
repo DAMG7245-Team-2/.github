@@ -10,6 +10,13 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+## Team Members
+- Adwaith Korapati
+- Ashish Nevan Gade
+- Neha Devarapalli
+
+## Assignment Links
+
 Assignment 1: https://github.com/DAMG7245-Team-2/ParseForge
 
 Assignment 2: https://github.com/DAMG7245-Team-2/findatateam3
@@ -29,6 +36,9 @@ Assignment 4: https://github.com/DAMG7245-Team-2/miriel
 
 Assignment 5: https://github.com/DAMG7245-Team-2/agentic_research/
 
+## Hackathon Link:
+
 Hackathon: https://github.com/DAMG7245-Team-2/hackathon
 
+## Final Project Link:
 Final Project (InterviewGraph): https://github.com/DAMG7245-Team-2/InterviewGraph
