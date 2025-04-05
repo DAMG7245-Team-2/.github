@@ -30,3 +30,5 @@ Assignment 4: https://github.com/DAMG7245-Team-2/miriel
 Assignment 5: https://github.com/DAMG7245-Team-2/agentic_research/
 
 Hackathon: https://github.com/DAMG7245-Team-2/hackathon
+
+Final Project (InterviewGraph): https://github.com/DAMG7245-Team-2/InterviewGraph
